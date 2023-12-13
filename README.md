@@ -1,2 +1,2 @@
 ### Features
--Osmaniye Korkut Ata Üniversitesi Yüksek Lisans Tezi
+Osmaniye Korkut Ata Üniversitesi Yüksek Lisans Tezi
