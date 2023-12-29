@@ -3,7 +3,7 @@
 
 Elektrik-Elektronik Mühendisliği Yüksek Lisans Tezi
 <p align="center">
-<img src="https://github.com/hckaya/yl_tez/blob/main/uygulama-2_bb%2Btag.png" border="10"/>
+<img src="https://github.com/hckaya/yl_tez/blob/main/devre_github.png" border="10"/>
 </p>
 <p align="center" > Stm32f4 Discovery Kart- Rc522 Modül- PL2303 ile kurulmuş test devresi </p>
 
