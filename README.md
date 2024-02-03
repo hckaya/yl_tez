@@ -1,7 +1,8 @@
 
 # Osmaniye Korkut Ata Üniversitesi 
 
-Elektrik-Elektronik Mühendisliği Yüksek Lisans Tezi
+Elektrik-Elektronik Mühendisliği Yüksek Lisans Tezi / RfId Etiketlerin Hafıza Alanını Verimli Kullanımı İçin Sıkıştırma Algoritmalarının Kullanımı
+Using Compression Algorithms For Efficient Memory Space Utilization Of Rfid Tags
 <p align="center">
 <img src="https://github.com/hckaya/yl_tez/blob/main/devre.png" border="10"/>
 </p>
