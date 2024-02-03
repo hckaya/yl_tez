@@ -1,7 +1,8 @@
 
 # Osmaniye Korkut Ata Üniversitesi 
 
-Elektrik-Elektronik Mühendisliği Yüksek Lisans Tezi \n
+Elektrik-Elektronik Mühendisliği Yüksek Lisans Tezi
+---
 RfId Etiketlerin Hafıza Alanını Verimli Kullanımı İçin Sıkıştırma Algoritmalarının Kullanımı
 Using Compression Algorithms For Efficient Memory Space Utilization Of Rfid Tags
 <p align="center">
